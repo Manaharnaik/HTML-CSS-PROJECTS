@@ -1,0 +1,28 @@
+@media(max-width:1024px) {
+.nav-toggle {
+    display: block;
+    margin-top: 20px;
+}
+.container {
+    
+}
+nav ul {
+    display: none;
+}
+.hero-section {
+    display: grid;
+    min-height: 50vh;
+
+}
+
+.ipad-iphone-img {
+    display: grid;
+    max-height: 30vh;
+    min-width: 10vh;
+
+}
+}
+
+
+
+
